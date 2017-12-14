@@ -44,5 +44,5 @@ plt.xlabel('Position')
 plt.ylabel("salary")
 plt.show()
 
-lin_reg_2.predict(6.5)
+
 
